@@ -1,0 +1,73 @@
+.title{
+    font-size: 32px;
+    margin-top: 60px;
+}
+.filters{
+    display: flex;
+    justify-content: start;
+    padding-top: 40px;
+}
+.filters-content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.filter{
+    cursor: pointer;
+    border: 1px solid #000000;
+    color: #000000;
+    padding: 10px;
+    margin: 50px 0;
+    font-size: 20px;
+}
+
+.cards-content{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px;
+}
+.price-icons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   justify-content: space-between;
+}
+.name, .price{
+    font-size: 30px;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 13px;
+}
+.cards{
+    margin: 50px 0;
+}
+.poisk{
+    background-color: #000000;
+    padding: 1px;
+    max-width: 200px;
+}
+.search{
+    padding: 10px;
+}
+.sort{
+    background-color: brown;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+}
+.cat-poisk{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

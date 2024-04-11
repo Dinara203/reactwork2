@@ -1,0 +1,12 @@
+.close{
+    position: fixed;
+    right: 100px;
+    border-radius: 5px;
+}
+.to-bag{
+    background-color: brown;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 3px;
+    color: white;
+}

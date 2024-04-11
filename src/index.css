@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  border: 0;
+  outline: 0;
+  text-decoration: 0;
+  list-style: none;
+}
+body{
+  font-family: 'Lora', sans-serif;
+  font-size: 18px;
+  background-color: rgb(245, 245, 245);
+}
+button{
+  font-family: 'Lora', sans-serif;
+}
+a{
+  font-family: 'Lora', sans-serif;
+}
+input{
+  font-family: 'Lora', sans-serif;
+}
+select{
+  font-family: 'Lora', sans-serif;
+}

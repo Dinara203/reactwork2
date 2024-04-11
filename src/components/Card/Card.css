@@ -1,0 +1,17 @@
+
+.name, .price{
+    font-size: 20px;
+    font-weight: 500;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 13px;
+}
+.cards{
+    margin: 50px 0;
+}
+.card-img{
+    width: 250px;
+}
